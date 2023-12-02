@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on nothing :(
 - 📫 How to reach me on on instagram : @Cyber_Gas , email : mezospotatos@proton.me
-- i lost my phone📲😥
 finaly found my phone
 <!---
 cybergas123/cybergas123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
