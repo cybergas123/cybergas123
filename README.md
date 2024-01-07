@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cybergas123
 - 👀 I’m interested in programing, retro computers, networking, servers, arduino, linux and computers
 - 🌱 I’m currently learning cpp + c# + c# wfp + unity
-- 💞️ I’m looking to collaborate on nothing :(
 - 📫 How to reach me on on instagram : @Cyber_Gas , email : mezospotatos@proton.me
 <!---
 cybergas123/cybergas123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
