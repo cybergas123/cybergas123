@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cybergas123
 - 👀 I’m interested in programing, retro computers, networking, servers, arduino, linux and computers
-- 🌱 I’m currently learning cpp + c# + c# wfp
+- 🌱 I’m currently learning cpp + c# + c# wfp + unity
 - 💞️ I’m looking to collaborate on nothing :(
 - 📫 How to reach me on on instagram : @Cyber_Gas , email : mezospotatos@proton.me
 <!---
